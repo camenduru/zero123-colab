@@ -8,6 +8,7 @@
 
 | Colab | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/zero123-colab/blob/main/zero123_colab.ipynb) | zero123_colab (Pro)
 
 ## Tutorial
 
